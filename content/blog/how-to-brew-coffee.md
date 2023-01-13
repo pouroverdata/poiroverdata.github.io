@@ -5,12 +5,26 @@ draft: false
 ---
 
 
-# How to brew coffee
+## History of Coffee
 
-Everybody has their own preference when it comes to coffee. Some people prefer dark roast on pour over, another person can prefer a light roast on french roast. Regardless of the brewing method you choose, the quality  and quantity of water you use is very important to the taste profile of your coffee. 
+Coffee has been around for centuries and it all began in Ethiopia with a goat herder named Kaldi. He noticed his goats getting hyper after eating some red berries and decided to try it himself. He found that it gave him energy too. The local monks found out about it and started using it to stay awake during long religious ceremonies.
+As word spread, coffee made its way to the Arab world and became a hit in places like Mecca and Medina. Soon enough, coffee houses, known as "qahveh khaneh," were popping up in cities like Cairo. By the 16th century, it had reached Europe and coffee houses were all the rage in cities like Venice, London, Paris, and Vienna.
+In the 18th century, coffee made its way to the Americas and became a major commodity in countries like Brazil, Colombia, and Costa Rica. Today, coffee is grown and consumed all over the world and it's one of the most traded commodities globally.
 
-## "Golden Ratio"
- **One to two tablespoons of ground coffee for every six ounces of water.** This can be adjusted to suit individual taste preferences. 
+## Water Quality
 
+Throughout history, coffee has played a big role in society, economy, and politics. It's been a driving force for many countries' economies and has been involved in revolutions, wars, and social movements. It's not just about the drink itself, but also the cultural and social significance of it.
+When it comes to brewing coffee, the quality of water is crucial. Impurities like chlorine, hard water, iron, manganese, fluoride, and other dissolved minerals can affect the taste of the coffee. To avoid that, it's important to use filtered or purified water when brewing. Also, using distilled water which is too pure, may strip away some of the desired flavors and leave the coffee with a flat taste. In these cases, it's recommended to use filtered water or mineralized water.
 
-## Pour over coffee to water ratio
+## Coffee-to-Water Ratio
+
+Different brewing methods have different recommended coffee-to-water ratios. For example, French press coffee is typically brewed at a ratio of 1:15 (coffee to water), while pour-over coffee is often cursed at a ratio of 1:16 or 1:17. Additionally, the water used should be around 200°F (93°C) in order to properly extract the coffee's flavors and oils.
+Here are some common coffee-to-water ratios for other brewing methods:
+* Drip coffee: 1:15 to 1:18
+* Espresso: 1:2 (coffee to water)
+* Cold brew: 1:4 to 1:5
+* Siphon/Vacuum brew: 1:15 to 1:18
+* Moka pot: 1:4 to 1:6
+* Turkish coffee: 1:12 to 1:16
+It's worth noting that these ratios are just general guidelines and the actual ratio used may vary depending on personal taste, the type of coffee bean, and the brewing method. Some people may prefer a stronger coffee and use a higher ratio of coffee to water, while others may prefer a milder coffee and use a lower ratio. Experimenting with different ratios is the best way to find the perfect balance for your taste.
+Even the roast type can affect the coffee-to-water ratio. Darker roasts (such as French or Italian) tend to be more concentrated and have a stronger flavor, so they may require a lower coffee-to-water ratio (1:15 or 1:16) to prevent the coffee from becoming too bitter. Lighter roasts (such as American or City) tend to be more delicate and have a brighter flavor, so they may require a higher coffee-to-water ratio (1:17 or 1:18) to ensure that all the flavors are extracted properly
