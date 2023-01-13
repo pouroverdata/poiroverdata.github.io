@@ -13,8 +13,18 @@ In the 18th century, coffee made its way to the Americas and became a major comm
 
 ## Water Quality
 
-Throughout history, coffee has played a big role in society, economy, and politics. It's been a driving force for many countries' economies and has been involved in revolutions, wars, and social movements. It's not just about the drink itself, but also the cultural and social significance of it.
-When it comes to brewing coffee, the quality of water is crucial. Impurities like chlorine, hard water, iron, manganese, fluoride, and other dissolved minerals can affect the taste of the coffee. To avoid that, it's important to use filtered or purified water when brewing. Also, using distilled water which is too pure, may strip away some of the desired flavors and leave the coffee with a flat taste. In these cases, it's recommended to use filtered water or mineralized water.
+
+When it comes to brewing coffee, the quality of water is crucial. Impurities like chlorine, hard water, iron, manganese, fluoride, and other dissolved minerals can affect the taste of the coffee. Impurities in water can affect the taste profile of coffee in several ways.
+
+Chlorine, for example, is commonly used to disinfect water, but it can leave a chemical taste in coffee. Hard water, which is high in minerals like calcium and magnesium, can also affect the taste of coffee. Hard water can cause the coffee to taste flat and dull, and can also leave mineral buildup on coffee-making equipment.
+
+Iron, manganese and other dissolved metals can also affect the taste of coffee, these can add metallic or earthy flavors to the coffee.
+
+Fluoride and other dissolved minerals can also affect the taste of coffee by adding unpleasant flavors.
+
+It is important to use filtered or purified water to brew coffee in order to remove impurities that could affect the taste of the coffee.
+
+Another aspect to consider is that water that is too pure, also known as distilled water, can be too aggressive on coffee, it can strip away some of the desired flavors and leave the coffee with a flat taste. In these cases, it is recommended to use filtered water or mineralized water.
 
 ## Coffee-to-Water Ratio
 
@@ -26,5 +36,6 @@ Here are some common coffee-to-water ratios for other brewing methods:
 * Siphon/Vacuum brew: 1:15 to 1:18
 * Moka pot: 1:4 to 1:6
 * Turkish coffee: 1:12 to 1:16
+
 It's worth noting that these ratios are just general guidelines and the actual ratio used may vary depending on personal taste, the type of coffee bean, and the brewing method. Some people may prefer a stronger coffee and use a higher ratio of coffee to water, while others may prefer a milder coffee and use a lower ratio. Experimenting with different ratios is the best way to find the perfect balance for your taste.
-Even the roast type can affect the coffee-to-water ratio. Darker roasts (such as French or Italian) tend to be more concentrated and have a stronger flavor, so they may require a lower coffee-to-water ratio (1:15 or 1:16) to prevent the coffee from becoming too bitter. Lighter roasts (such as American or City) tend to be more delicate and have a brighter flavor, so they may require a higher coffee-to-water ratio (1:17 or 1:18) to ensure that all the flavors are extracted properly
+Even the roast type can affect the coffee-to-water ratio. Darker roasts (such as French or Italian) tend to be more concentrated and have a stronger flavor, so they may require a lower coffee-to-water ratio (1:15 or 1:16) to prevent the coffee from becoming too bitter. Lighter roasts (such as American or City) tend to be more delicate and have a brighter flavor, so they may require a higher coffee-to-water ratio (1:17 or 1:18) to ensure that all the flavors are extracted properly.
