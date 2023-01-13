@@ -7,4 +7,6 @@ enableEmoji = true
  title = "Pour over data blog"
  author = "EY"
  description = "blog to share my thoughts and projects "
+ profilePicture = "images/pour_over_coffee.jpg"
+ mainSections = ["blog"]
 
